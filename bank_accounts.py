@@ -30,3 +30,5 @@ business_account.display_balance()
 business_account.withdraw(100)
 
 business_account.display_balance()
+
+business_account.display_balance()
